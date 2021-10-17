@@ -2,7 +2,8 @@ package com.guesstheoutput;
 
 public class ArrayGuessTheOutput {
 	public static void main(String[] args) {
-		int a[] = {10,23,6,};
+		int a[] = {3,10,23,0};
+		int b[] = new int[5];
 		System.out.println(a.length);
 		
 		// Answer : The output here is 3
